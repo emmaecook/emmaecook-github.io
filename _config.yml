@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: This is the personal website of Emma E. Cook........
+title: Emma E. Cook
 description: Please check out my research projects, publications and teaching on this site.
+plugins:
+  - jemoji
