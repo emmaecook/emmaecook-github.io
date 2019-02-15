@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Emma E. Cook's website
 
 You can use the [editor on GitHub](https://github.com/emmaecook/emmaecook-github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
